@@ -1,3 +1,11 @@
+#python -i driver.py
+
+class Driver:
+    def greeting(self):
+        return("Hey how are you?")
+    def ask_for_destination(self):
+        return("Where would you like to go today?")
+
 # define Driver class and instance methods here
 
 # Note: remember that our instance methods need to be defined with the an
